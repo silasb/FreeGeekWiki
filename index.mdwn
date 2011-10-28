@@ -2,6 +2,8 @@ Welcome the Columbus Free Geek wiki.
 
 This wiki is used for many different purposes but it initially started off as a way to document the Columbus Free Geek Network.
 
+[[!map  pages="*" show=title]]
+
 All wikis are supposed to have a [[SandBox]], so this one does too.
 
 ----
