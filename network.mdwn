@@ -5,15 +5,17 @@ Core switch arrangement
 3com 3300 (3c16980)
 
 Legend
-X = green light (connectivity)
-O =
+    X = green light (connectivity)
+    O =
 
-01 02 03 04 05 06 07 08 09 10 11 12
-X  X  X  X                 X
+Ports
+
+    01 02 03 04 05 06 07 08 09 10 11 12
+    X  X  X  X                 X
 
 
-13 14 15 16 17 18 19 20 21 22 23 24
-X           X  X  X     X        X
+    13 14 15 16 17 18 19 20 21 22 23 24
+    X           X  X  X     X        X
 
 01: Router
 02: 
