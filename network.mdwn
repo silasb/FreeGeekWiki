@@ -1,1 +1,50 @@
 Columbus Free Geek is organized into 2 different subnets.
+
+Core switch arrangement
+
+3com 3300 (3c16980)
+
+Legend
+X = green light (connectivity)
+O =
+
+01 02 03 04 05 06 07 08 09 10 11 12
+X  X  X  X                 X
+
+
+13 14 15 16 17 18 19 20 21 22 23 24
+X           X  X  X     X        X
+
+01: Router
+02: 
+03: PXE (Ram/HD testing switch)
+04:
+24: WIFI
+
+Jumpbox
+
+Legend
+O = Cable connected
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+                X X        X     X     X     X     X  X  X
+
+## Wires from Jumpbox to Core Switch
+
+Legend
+O = not connected (light didn't go out on core switch)
+X = light went out
+
+23 - 22: O
+22 - 24: X
+21 - 21: X
+19 - 19: 
+13 - 13:
+15 - 15:
+17 - 17:
+
+10 - 10:
+
+Jumpbox device connection
+
+22: Wireless
