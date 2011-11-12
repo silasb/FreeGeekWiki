@@ -66,32 +66,46 @@ Jumpbox device connection
 
 # Core Switch
 
-    --Source Port Sticker
-    Printer 2 Yellow
-    Front-computer 7 Green
-    Front-cluster 10 Green
-    Stage-1-build 13 Orange
-    Public-computers 1 Yellow
+    Source		Port	Sticker Color
 
-# Pxe Switch
+    Printer		02	Yellow
+    Front-computer 	07	Green
+    Front-cluster 	10	Green
+    Stage-1-build	13	Orange
+    Public-computers 	01	Yellow
 
-    --Pxe -1 Red (-1 is not connected)
-    --pxe switch connects to pxe computer
-    --pxe switch connects to hp-compact computer
+# PXE Switch
 
-    --Source Port Sticker
-    Test-1-IDE 2 Pink
-    Test-2-IDE 7 Orange
-    Test-3-IDE 5 Pink
-    Test-4-Cloning 3 Green
-    Test-5-Cloning 4 Yellow
-    Test-8-SDRAM 8 Orange
-    Test-X 6 Yellow
-    Test-6-DDR2(SATA) 1 Pink
+Note:
+
+The PXE network doesn't actually attach to the core network switch but connects directly to a computer which must be the PXE server.
+
+    PXE switch connects to PXE computer
+    PXE switch connects to HP Compact Computer (PXE Server)
+
+    Source		Port	Sticker Color
+
+    Test-1-IDE		2	Pink
+    Test-2-IDE		7	Orange
+    Test-3-IDE		5	Pink
+    Test-4-Cloning	3	Green
+    Test-5-Cloning	4	Yellow
+    Test-8-SDRAM	8	Orange
+    Test-X	 	6	Yellow
+    Test-6-DDR2(SATA)	1	Pink
 
 # Public Network Switch
     
-    --Source Port Cable
-    Dell 6 Yellow
-    Core-switch 7 White
-    Emac 8 Pink
+    Source	Port	Cable
+
+    Dell	6	Yellow
+    Core-switch	7	White
+    Emac	8	Pink
+
+
+# People that helped in someway
+
+Thanks
+
+* Ryan Karason
+* Omar
