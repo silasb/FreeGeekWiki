@@ -62,7 +62,7 @@ Legend
 
 Jumpbox device connection
 
-    22: Internet
+    22: Router
 
 # Core Switch
 
