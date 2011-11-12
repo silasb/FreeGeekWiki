@@ -20,11 +20,20 @@ Legend
 
 #### Ports to devices
 
-    01: Router
-    02: 
-    03: PXE (Ram/HD testing switch)
+    01: Public Computers (switch)
+    02: Printer
+    03: Upstairs network?
     04:
-    24: WIFI
+    05:
+    06:
+    07: Front computer
+    08:
+    09:
+    10: Final Build Stage (switch)
+    11:
+    12:
+    13: Stage 1 build
+    24: Router
 
 Jumpbox
 
@@ -53,7 +62,7 @@ Legend
 
 Jumpbox device connection
 
-    22: Wireless
+    22: Internet
 
 # Core Switch
 
