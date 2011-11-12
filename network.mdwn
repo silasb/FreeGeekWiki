@@ -54,3 +54,18 @@ Legend
 Jumpbox device connection
 
     22: Wireless
+
+# Core Switch
+
+    --Source Port Sticker
+    Printer 2 Yellow
+    Front-computer 7 Green
+    Front-cluster 10 Green
+    Stage-1-build 13 Orange
+    Public-computer 1 Yellow
+
+# Pxe Switch
+
+    Pxe -1 Red //-1 is not connected
+    pxe switch connects to pxe computer
+    pxe switch connects to hp-compact computer
