@@ -62,10 +62,20 @@ Jumpbox device connection
     Front-computer 7 Green
     Front-cluster 10 Green
     Stage-1-build 13 Orange
-    Public-computer 1 Yellow
+    Public-computers 1 Yellow
 
 # Pxe Switch
 
-    Pxe -1 Red //-1 is not connected
-    pxe switch connects to pxe computer
-    pxe switch connects to hp-compact computer
+    --Pxe -1 Red (-1 is not connected)
+    --pxe switch connects to pxe computer
+    --pxe switch connects to hp-compact computer
+
+    --Source Port Sticker
+    Test-1-IDE 2 Pink
+    Test-2-IDE 7 Orange
+    Test-3-IDE 5 Pink
+    Test-4-Cloning 3 Green
+    Test-5-Cloning 4 Yellow
+    Test-8-SDRAM 8 Orange
+    Test-X 6 Yellow
+    Test-6-DDR2(SATA) 1 Pink
