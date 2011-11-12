@@ -88,3 +88,10 @@ Jumpbox device connection
     Test-8-SDRAM 8 Orange
     Test-X 6 Yellow
     Test-6-DDR2(SATA) 1 Pink
+
+# Public Network Switch
+    
+    --Source Port Cable
+    Dell 6 Yellow
+    Core-switch 7 White
+    Emac 8 Pink
