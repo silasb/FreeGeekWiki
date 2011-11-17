@@ -102,6 +102,15 @@ The PXE network doesn't actually attach to the core network switch but connects 
     Core-switch	7	White
     Emac	8	Pink
 
+# IP Address information
+PXE server 192.168.16.8
+update server 192.168.16.8 different network
+cache server 192.168.16.8
+also image server
+also has the FB on different network 192.168.16.42
+
+Erverything is DHCP
+except print which is .183
 
 # People that helped in someway
 
