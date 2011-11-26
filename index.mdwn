@@ -1,3 +1,5 @@
+[[network]]
+
 Welcome the Columbus Free Geek wiki.
 
 This wiki is used for many different purposes but it initially started off as a way to document the Columbus Free Geek Network.
