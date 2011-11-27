@@ -71,13 +71,38 @@ Patch panel device connection
 
 ## Core Switch
 
-    Source		Port	Sticker Color
-
-    Printer		         02	Yellow
-    Front-computer 	 07	Green
-    Front-cluster 	 10	Green
-    Stage-1-build	 13	Orange
-    Public-computers  01	Yellow
+<table>
+<th>
+<td>Source</td>
+<td>Port</td>
+<td>Sticker Color</td>
+</th>
+<tr>
+<td>Printer</td>
+<td>02</td>
+<td>Yellow</td>
+</tr>
+<tr>
+<td>Front computer</td>
+<td>07</td>
+<td>Green</td>
+</tr>
+<tr>
+<td>Front cluster</td>
+<td>10</td>
+<td>Green</td>
+</tr>
+<tr>
+<td>Stage 1 build</td>
+<td>13</td>
+<td>Orange</td>
+</tr>
+<tr>
+<td>Public computers</td>
+<td>01</td>
+<td>Yellow</td>
+</tr>
+</table>
 
 ## PXE Switch
 
