@@ -16,13 +16,14 @@ The PXE network doesn't actually attach to the core network switch but connects 
 
 [[PXE Switch]]
 
-# Public Network Switch
+## Public Network Switch
     
     Source	Port	Cable
 
     Dell	6	Yellow
     Core-switch	7	White
     Emac	8	Pink
+
 
 # General Observations
 
