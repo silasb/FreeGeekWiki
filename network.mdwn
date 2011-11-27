@@ -7,7 +7,7 @@ Columbus Free Geek is organized into 2 different subnets.
 Legend
 
     X = green light (connectivity)
-    O =
+    O | blank = disconnected or unknown
 
 #### Ports
 
