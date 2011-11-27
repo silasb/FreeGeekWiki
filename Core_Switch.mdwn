@@ -1,6 +1,6 @@
 <table>
 <tr>
-<th>Device</th>
+<th>Nodes/Switches</th>
 <th>Port</th>
 <th>Sticker Color</th>
 </tr>
