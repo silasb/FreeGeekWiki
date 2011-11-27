@@ -2,35 +2,39 @@ Model: 3com 3300 (3c16980)
 
 <table>
 <tr>
-<th>Nodes/Switches</th>
-<th>Port</th>
-<th>Sticker Color</th>
+    <th>Nodes/Switches</th>
+    <th>Port</th>
+    <th>Sticker Color</th>
 </tr>
 <tr>
-<td>[[Public computers]]</td>
-<td>01</td>
-<td>Yellow</td>
+    <td>[[Public computers]]</td>
+    <td>01</td>
+    <td>Yellow</td>
 </tr>
 <tr>
-<td>[[Printer]]</td>
-<td>02</td>
-<td>Yellow</td>
+    <td>[[Printer]]</td>
+    <td>02</td>
+    <td>Yellow</td>
 </tr>
 <tr>
-<td>[[Front computer]]</td>
-<td>07</td>
-<td>Green</td>
+    <td>Upstairs network?</td>
+    <td>03></td>
+    <td>Unlabeled</td>
 </tr>
 <tr>
-<td>[[Final Build Stage]]</td>
-<td>10</td>
-<td>Green</td>
+    <td>[[Front computer]]</td>
+    <td>07</td>
+    <td>Green</td>
 </tr>
 <tr>
-<td>[[Stage 1 build]]</td>
-<td>13</td>
-<td>Orange</td>
-
+    <td>[[Final Build Stage]]</td>
+    <td>10</td>
+    <td>Green</td>
+</tr>
+<tr>
+    <td>[[Stage 1 build]]</td>
+    <td>13</td>
+    <td>Orange</td>
 </tr>
 </table>
 
