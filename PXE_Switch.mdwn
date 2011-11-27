@@ -1,0 +1,56 @@
+ <table>
+<tr>
+	<th>Source</th>
+	<th>Port</th>
+	<th>Sticker</th>
+	<th>Color</th>
+</tr>
+
+<tr>
+	<td>Test-1-IDE</td>
+	<td>2</td>
+	<td>Pink</td>
+</tr>
+
+<tr>
+	<td>Test-2-IDE</td>
+	<td>7</td>
+	<td>Orange</td>
+</tr>
+
+<tr>
+	<td>Test-3-IDE</td>
+	<td>5</td>
+	<td>Pink</td>
+</tr>
+
+<tr>
+	<td>Test-4-Cloning</td>
+	<td>3</td>
+	<td>Green</td>
+</tr>
+
+<tr>
+	<td>Test-5-Cloning</td>
+	<td>4</td>
+	<td>Yellow</td>
+</tr>
+
+<tr>
+	<td>Test-8-SDRAM</td>
+	<td>8</td>
+	<td>Orange</td>
+</tr>
+
+<tr>
+	<td>Test-X</td>
+	<td>6</td>
+	<td>Yellow</td>
+<tr>
+
+<tr>
+	<td>Test-6-DDR2(SATA)</td>
+	<td>1</td>
+	<td>Pink</td>
+</tr>
+</table>
