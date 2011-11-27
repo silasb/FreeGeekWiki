@@ -72,11 +72,11 @@ Patch panel device connection
 ## Core Switch
 
 <table>
-<th>
-<td>Device</td>
-<td>Port</td>
-<td>Sticker Color</td>
-</th>
+<tr>
+<th>Device</th>
+<th>Port</th>
+<th>Sticker Color</th>
+</tr>
 <tr>
 <td>Printer</td>
 <td>02</td>
