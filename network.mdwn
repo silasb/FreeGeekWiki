@@ -2,41 +2,6 @@ Columbus Free Geek is organized into 2 different subnets.
 
 # General Observations
 
-## Core switch arrangement
-
-3com 3300 (3c16980)
-
-Legend
-
-    X = green light (connectivity)
-    O | blank = disconnected or unknown
-
-#### Ports
-
-    01 02 03 04 05 06 07 08 09 10 11 12
-    X  X  X  X                 X
-
-
-    13 14 15 16 17 18 19 20 21 22 23 24
-    X           X  X  X     X        X
-
-#### Ports to nodes
-
-    01: Public Computers (switch)
-    02: Printer
-    03: Upstairs network?
-    04:
-    05:
-    06:
-    07: Front computer
-    08:
-    09:
-    10: Final Build Stage (switch)
-    11:
-    12:
-    13: Stage 1 build
-    24: Router
-
 ## Patch panel
 
 Legend
