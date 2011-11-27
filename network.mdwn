@@ -71,38 +71,8 @@ Patch panel device connection
 
 ## Core Switch
 
-<table>
-<tr>
-<th>Device</th>
-<th>Port</th>
-<th>Sticker Color</th>
-</tr>
-<tr>
-<td>[[Printer]]</td>
-<td>02</td>
-<td>Yellow</td>
-</tr>
-<tr>
-<td>[[Front computer]]</td>
-<td>07</td>
-<td>Green</td>
-</tr>
-<tr>
-<td>[[Front cluster]]</td>
-<td>10</td>
-<td>Green</td>
-</tr>
-<tr>
-<td>[[Stage 1 build]]</td>
-<td>13</td>
-<td>Orange</td>
-</tr>
-<tr>
-<td>[[Public computers]]</td>
-<td>01</td>
-<td>Yellow</td>
-</tr>
-</table>
+[[Core Switch]]
+
 
 ## PXE Switch
 
