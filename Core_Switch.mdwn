@@ -36,6 +36,11 @@ Model: 3com 3300 (3c16980)
     <td>13</td>
     <td>Orange</td>
 </tr>
+<tr>
+    <td> Router</td>
+     <td>24</td>
+     <td>Unlabeled</td>
+</tr>
 </table>
 
 
