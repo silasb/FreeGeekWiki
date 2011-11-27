@@ -1,3 +1,5 @@
+Model: 3com 3300 (3c16980)
+
 <table>
 <tr>
 <th>Nodes/Switches</th>
@@ -31,7 +33,6 @@
 </tr>
 </table>
 
-3com 3300 (3c16980)
 
 Legend
 
