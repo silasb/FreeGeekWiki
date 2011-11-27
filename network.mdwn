@@ -1,5 +1,29 @@
 Columbus Free Geek is organized into 2 different subnets.
 
+## Core Switch
+
+[[Core Switch]]
+
+
+## PXE Switch
+
+Note:
+
+The PXE network doesn't actually attach to the core network switch but connects directly to a computer which must be the PXE server.
+
+    PXE switch connects to PXE computer
+    PXE switch connects to HP Compact Computer (PXE Server)
+
+[[PXE Switch]]
+
+# Public Network Switch
+    
+    Source	Port	Cable
+
+    Dell	6	Yellow
+    Core-switch	7	White
+    Emac	8	Pink
+
 # General Observations
 
 ## Patch panel
@@ -34,29 +58,7 @@ Patch panel device connection
 
 # Detailed Analysis
 
-## Core Switch
 
-[[Core Switch]]
-
-
-## PXE Switch
-
-Note:
-
-The PXE network doesn't actually attach to the core network switch but connects directly to a computer which must be the PXE server.
-
-    PXE switch connects to PXE computer
-    PXE switch connects to HP Compact Computer (PXE Server)
-
-[[PXE Switch]]
-
-# Public Network Switch
-    
-    Source	Port	Cable
-
-    Dell	6	Yellow
-    Core-switch	7	White
-    Emac	8	Pink
 
 # IP Address information
 
