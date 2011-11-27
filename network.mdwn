@@ -73,7 +73,7 @@ Patch panel device connection
 
 <table>
 <th>
-<td>Source</td>
+<td>Device</td>
 <td>Port</td>
 <td>Sticker Color</td>
 </th>
