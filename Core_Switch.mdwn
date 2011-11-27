@@ -7,6 +7,11 @@ Model: 3com 3300 (3c16980)
 <th>Sticker Color</th>
 </tr>
 <tr>
+<td>[[Public computers]]</td>
+<td>01</td>
+<td>Yellow</td>
+</tr>
+<tr>
 <td>[[Printer]]</td>
 <td>02</td>
 <td>Yellow</td>
@@ -25,11 +30,7 @@ Model: 3com 3300 (3c16980)
 <td>[[Stage 1 build]]</td>
 <td>13</td>
 <td>Orange</td>
-</tr>
-<tr>
-<td>[[Public computers]]</td>
-<td>01</td>
-<td>Yellow</td>
+
 </tr>
 </table>
 
