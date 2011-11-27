@@ -18,7 +18,7 @@ Model: 3com 3300 (3c16980)
 </tr>
 <tr>
     <td>Upstairs network?</td>
-    <td>03></td>
+    <td>03</td>
     <td>Unlabeled</td>
 </tr>
 <tr>
