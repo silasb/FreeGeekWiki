@@ -22,7 +22,7 @@ Model: 3com 3300 (3c16980)
 <td>Green</td>
 </tr>
 <tr>
-<td>[[Front cluster]]</td>
+<td>[[Final Build Stage]]</td>
 <td>10</td>
 <td>Green</td>
 </tr>
