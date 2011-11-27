@@ -24,9 +24,6 @@ The PXE network doesn't actually attach to the core network switch but connects 
     Core-switch	7	White
     Emac	8	Pink
 
-
-# General Observations
-
 ## Patch panel
 
 Legend
@@ -56,9 +53,6 @@ Patch panel device connection
 
     Ports: Device
     22: Router
-
-# Detailed Analysis
-
 
 
 # IP Address information
