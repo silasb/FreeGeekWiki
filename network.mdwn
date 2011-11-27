@@ -73,11 +73,11 @@ Patch panel device connection
 
     Source		Port	Sticker Color
 
-    Printer		02	Yellow
-    Front-computer 	07	Green
-    Front-cluster 	10	Green
-    Stage-1-build	13	Orange
-    Public-computers 	01	Yellow
+    Printer		         02	Yellow
+    Front-computer 	 07	Green
+    Front-cluster 	 10	Green
+    Stage-1-build	 13	Orange
+    Public-computers  01	Yellow
 
 ## PXE Switch
 
