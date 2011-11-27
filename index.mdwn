@@ -8,6 +8,8 @@ This wiki is used for many different purposes but it initially started off as a 
 
 All wikis are supposed to have a [[SandBox]], so this one does too.
 
+[Help](ikiwiki)
+
 ----
 
 This wiki is powered by [[ikiwiki]].
