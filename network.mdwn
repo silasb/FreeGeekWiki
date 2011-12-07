@@ -66,6 +66,27 @@ Patch panel device connection
     Everything is DHCP
     except print which is .183
 
+192.168.16.42
+PORT     STATE SERVICE
+22/tcp   open  ssh
+80/tcp   open  http
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+3128/tcp open  squid-http
+5432/tcp open  postgresql
+9999/tcp open  abyss
+MAC Address: 00:02:B3:C5:42:36 (Intel)
+
+192.168.16.1
+PORT   STATE SERVICE
+21/tcp open  ftp
+23/tcp open  telnet
+80/tcp open  http
+MAC Address: 00:30:AB:0E:A9:91 (Delta Networks)
+
+
+
+
 # People that helped in someway
 
 Thanks
