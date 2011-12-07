@@ -23,7 +23,7 @@ Model: 3com 3300 (3c16980)
 </tr>
 <tr>
     <td>[[Front computer]]</td>
-    <td>07</td>
+    <td>17</td>
     <td>Green</td>
 </tr>
 <tr>
