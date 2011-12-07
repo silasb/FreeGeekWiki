@@ -22,6 +22,11 @@ Model: 3com 3300 (3c16980)
     <td>Unlabeled</td>
 </tr>
 <tr>
+<td>[[Server]]?</td>
+<td>04</td>
+<td>Unlabeled</td>
+</tr>
+<tr>
     <td>[[Front computer]]</td>
     <td>17</td>
     <td>Green</td>
