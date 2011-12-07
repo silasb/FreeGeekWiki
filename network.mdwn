@@ -24,6 +24,12 @@ The PXE network doesn't actually attach to the core network switch but connects 
     Core-switch	7	White
     Emac	8	Pink
 
+## Wireless
+
+Assigns IPs in the range of 192.168.1.100-255?
+
+This device acts as a router.
+
 ## Patch panel
 
 Legend
