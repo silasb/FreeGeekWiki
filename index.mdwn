@@ -5,7 +5,6 @@ This wiki is used for many different purposes but it initially started off as a 
 ### Important Pages
 
 [[network]]
-[[services]]
 
 All wikis are supposed to have a [[SandBox]], so this one does too.
 
