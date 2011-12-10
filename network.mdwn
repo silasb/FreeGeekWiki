@@ -59,6 +59,7 @@ Patch panel device connection
 
     Ports: Device
     22: Router
+    19: Serv1
 
 
 # IP Address information
@@ -93,6 +94,11 @@ Patch panel device connection
 ### Services
 
 FreeGeek DB - 192.168.16.42 when on the internal network
+
+### Scratchpad
+
+freeDB appears to be the serv1 on the bottom of the rack.
+port 19 on the core switch appears to be the server, the p3 machine on the bottom of the rack.
 
 
 
