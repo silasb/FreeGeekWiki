@@ -100,7 +100,7 @@ FreeGeek DB - 192.168.16.42 when on the internal network
 freeDB appears to be the serv1 on the bottom of the rack.
 port 19 on the core switch appears to be the server, the p3 machine on the bottom of the rack.
 
-
+port 4 on the core switch connects directly to the silver computer, what this computer is I have no idea.
 
 # People that helped in someway
 
